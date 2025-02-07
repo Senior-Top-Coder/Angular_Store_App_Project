@@ -1,6 +1,7 @@
 <h1 align="center">
 <img width="40" valign="bottom" src="https://ultimatecourses.com/static/icons/ngrx.svg">
 NGRX: Store + Effects app
+  Co-author: Solomon
 </h1>
 <h4 align="center">Project seed app for our NGRX application using Angular, NGRX Store, Effects, Router Store.</h4>
 
